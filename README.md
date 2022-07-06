@@ -14,7 +14,7 @@ and return to any other station in the system anytime. The Datasets are availabl
 
 
 There are four different datasets which are merged into a single datasets called the trip_data_master. The dataset contains
-15 columns and rows. The columns names are:
+15 columns and 3258796 rows. The columns names are:
 - ride_id: The unique identifier for each rides
 - start_time: The datetime which each ride is started
 - end_time: The datetime which each ride ends 
