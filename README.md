@@ -10,7 +10,7 @@ This is the repository for the goggle data analytics capstone project.
 
 Cyclistic is a bike sharing company that was launched in 2016. The program started with a fleet of bicycles of 5,824 which 
 geotracked and locked into a network of 692 stations across chicago. The bike can be unlocked and locked from one station
-and return to any other station in the system anytime. The Datasets are available "https://divvy-tripdata.s3.amazonaws.com/index.html"
+and return to any other station in the system anytime. The Datasets are available https://divvy-tripdata.s3.amazonaws.com/index.html
 
 
 There are four different datasets which are merged into a single datasets called the trip_data_master. The dataset contains
